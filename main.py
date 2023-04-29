@@ -7,6 +7,8 @@ print(f"Pandas are cool")
 
 
 
+print(f'peepeepoopoo')
+
 #code code code!
 
 #I love cris!!!
