@@ -8,3 +8,5 @@ print(f'But Cris is cooler.')
 
 #code code code!
 
+#I love cris!!!
+#I HATE CRIS!!!
